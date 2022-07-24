@@ -1,0 +1,19 @@
+{
+	"category" : "Matrix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"len",
+		"maxX",
+		"maxY",
+		"rand" ],
+	"name" : "MatrixRainDrop",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

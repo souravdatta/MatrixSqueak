@@ -1,0 +1,15 @@
+{
+	"category" : "Matrix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"drops",
+		"syms" ],
+	"name" : "MatrixRain",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

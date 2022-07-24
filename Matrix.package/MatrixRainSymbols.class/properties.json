@@ -1,0 +1,14 @@
+{
+	"category" : "Matrix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"chars" ],
+	"name" : "MatrixRainSymbols",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
