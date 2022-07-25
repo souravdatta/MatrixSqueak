@@ -11,7 +11,8 @@
 		"len",
 		"maxX",
 		"maxY",
-		"rand" ],
+		"rand",
+		"speed" ],
 	"name" : "MatrixRainDrop",
 	"pools" : [
 		 ],

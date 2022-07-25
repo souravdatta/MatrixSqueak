@@ -6,3 +6,4 @@ initialize
 	maxY := 0.
 	len := 0.
 	rand := Random new.
+	self makeSpeed.

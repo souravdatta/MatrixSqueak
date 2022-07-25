@@ -1,3 +1,3 @@
 as yet unclassified
 progress
-	y := self y + 4
+	y := self y + self speed
